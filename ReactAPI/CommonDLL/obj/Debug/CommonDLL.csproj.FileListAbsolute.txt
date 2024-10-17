@@ -1,0 +1,10 @@
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\bin\Debug\CommonDLL.dll
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\bin\Debug\CommonDLL.pdb
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.AssemblyReference.cache
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.CoreCompileInputs.cache
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.CopyComplete
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.dll
+C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.pdb

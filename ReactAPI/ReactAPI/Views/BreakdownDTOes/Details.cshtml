@@ -1,0 +1,59 @@
+﻿@model CommonDLL.DTO.BreakdownDTO
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Brekdown Details</h2>
+
+<div class="container">
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>@Html.DisplayNameFor(model => model.BreakdownReference)</label>
+                <p class="form-control-static">@Html.DisplayFor(model => model.BreakdownReference)</p>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>@Html.DisplayNameFor(model => model.CompanyName)</label>
+                <p class="form-control-static">@Html.DisplayFor(model => model.CompanyName)</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>@Html.DisplayNameFor(model => model.DriverName)</label>
+                <p class="form-control-static">@Html.DisplayFor(model => model.DriverName)</p>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>@Html.DisplayNameFor(model => model.RegistrationNumber)</label>
+                <p class="form-control-static">@Html.DisplayFor(model => model.RegistrationNumber)</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>@Html.DisplayNameFor(model => model.BreakdownDate)</label>
+                <p class="form-control-static">@Html.DisplayFor(model => model.BreakdownDate)</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<p>
+    <div class="btn-group" role="group" aria-label="Actions">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+
+</p>
