@@ -9,3 +9,14 @@ C:\Users\Zethember Myeni\source\repos\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL
 C:\Users\Zethember Myeni\source\repos\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.csproj.CopyComplete
 C:\Users\Zethember Myeni\source\repos\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.dll
 C:\Users\Zethember Myeni\source\repos\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.pdb
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\bin\Debug\DatabaseDLL.dll
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\bin\Debug\DatabaseDLL.pdb
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\bin\Debug\CommonDLL.dll
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\bin\Debug\Dapper.dll
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\bin\Debug\CommonDLL.pdb
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\bin\Debug\Dapper.xml
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.csproj.AssemblyReference.cache
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.csproj.CoreCompileInputs.cache
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.csproj.CopyComplete
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.dll
+C:\Development\RnRApp\ReactAPI\DatabaseDLL\obj\Debug\DatabaseDLL.pdb

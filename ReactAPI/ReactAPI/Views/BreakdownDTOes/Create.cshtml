@@ -6,14 +6,14 @@
 
 <h2>Add Breakdown</h2>
 
-
-@using (Html.BeginForm()) 
+@using (Html.BeginForm("Create", "BreakdownDTOes", FormMethod.Post, new { id = "createBreakdownForm" }))
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
         <div class="form-group">
             @Html.LabelFor(model => model.BreakdownReference, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -56,36 +56,45 @@
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" onclick="AddData()" value="Create" class="btn btn-default" />
+                <button type="button" class="btn btn-default" onclick="AddData()">Create</button>
             </div>
         </div>
     </div>
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
 </div>
 
 @section Scripts {
     @Scripts.Render("~/bundles/jqueryval")
 }
 <script type="text/javascript">
-
     function AddData() {
+        const breakdownData = {
+            BreakdownReference: $('#BreakdownReference').val(),
+            CompanyName: $('#CompanyName').val(),
+            DriverName: $('#DriverName').val(),
+            RegistrationNumber: $('#RegistrationNumber').val(),
+            BreakdownDate: new Date($('#BreakdownDate').val()).toISOString() 
+        };
+
         $.ajax({
             type: "POST",
             url: '@Url.Action("Create", "BreakdownDTOes")',
-            data: {
-                BreakdownReference: BreakdownReference.GetText(),
-                CompanyName: CompanyName.GetText(),
-                DriverName: DriverName.GetText(),
-                RegistrationNumber: RegistrationNumber.GetText(),
-                BreakdownDate: BreakdownDate.GetText(),
-            },
+            contentType: 'application/json', 
+            data: JSON.stringify(breakdownData), 
             success: function (response) {
-                alert('success');
+                if (response.success) {
+                    alert('Breakdown created successfully!');
+                    window.location.href = '@Url.Action("Index", "BreakdownDTOes")';
+                } else {
+                    alert("Failed to create breakdown: " + response.message);
+                }
+            },
+            error: function (xhr, status, error) {
+                alert("An error occurred: " + error);
             }
         });
     }
-
 </script>

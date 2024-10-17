@@ -11,3 +11,16 @@ C:\Users\Zethember Myeni\source\repos\ReactAPI\BusinessLogicDLL\obj\Debug\Busine
 C:\Users\Zethember Myeni\source\repos\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.csproj.CopyComplete
 C:\Users\Zethember Myeni\source\repos\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.dll
 C:\Users\Zethember Myeni\source\repos\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.pdb
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\BusinessLogicDLL.dll
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\BusinessLogicDLL.pdb
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\CommonDLL.dll
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\DatabaseDLL.dll
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\Dapper.dll
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\CommonDLL.pdb
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\DatabaseDLL.pdb
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\bin\Debug\Dapper.xml
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.csproj.AssemblyReference.cache
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.csproj.CoreCompileInputs.cache
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.csproj.CopyComplete
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.dll
+C:\Development\RnRApp\ReactAPI\BusinessLogicDLL\obj\Debug\BusinessLogicDLL.pdb

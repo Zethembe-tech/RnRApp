@@ -8,3 +8,13 @@ C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csp
 C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.CopyComplete
 C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.dll
 C:\Users\Zethember Myeni\source\repos\ReactAPI\CommonDLL\obj\Debug\CommonDLL.pdb
+C:\Development\RnRApp\ReactAPI\CommonDLL\bin\Debug\CommonDLL.dll
+C:\Development\RnRApp\ReactAPI\CommonDLL\bin\Debug\CommonDLL.pdb
+C:\Development\RnRApp\ReactAPI\CommonDLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Development\RnRApp\ReactAPI\CommonDLL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Development\RnRApp\ReactAPI\CommonDLL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Development\RnRApp\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.AssemblyReference.cache
+C:\Development\RnRApp\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.CoreCompileInputs.cache
+C:\Development\RnRApp\ReactAPI\CommonDLL\obj\Debug\CommonDLL.csproj.CopyComplete
+C:\Development\RnRApp\ReactAPI\CommonDLL\obj\Debug\CommonDLL.dll
+C:\Development\RnRApp\ReactAPI\CommonDLL\obj\Debug\CommonDLL.pdb
